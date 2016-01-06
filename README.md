@@ -6,7 +6,7 @@ Machine learning tutorials and resources
 
 1. Register an **email address** and **product key** at [dato.com].
 2. Follow instructions or install via ```pip``` with the following.
-3. **Note:** GraphLab Create requires Python 2.7. You may need to specifiy the path to your Python 2.7 binary if you run multiple versions of Python or have symblinks pointing to an incompatible Python version.
+3. **Note:** GraphLab Create requires Python 2.7. You may need to specifiy the path to your Python 2.7 binary if you run multiple versions of Python or have symlinks pointing to an incompatible Python version.
 
 Create a virtualenv.
 
